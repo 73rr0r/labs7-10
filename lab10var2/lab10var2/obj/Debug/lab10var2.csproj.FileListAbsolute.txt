@@ -1,0 +1,10 @@
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\bin\Debug\lab10var2.exe.config
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\bin\Debug\lab10var2.exe
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\bin\Debug\lab10var2.pdb
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.csprojAssemblyReference.cache
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.Form1.resources
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.Properties.Resources.resources
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.csproj.GenerateResource.cache
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.csproj.CoreCompileInputs.cache
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.exe
+C:\Users\Bandi\source\repos\lab10var2\lab10var2\obj\Debug\lab10var2.pdb
